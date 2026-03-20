@@ -1,2 +1,3 @@
-# rapid-data-visualizer-glhw
-Automated issue comment bot repository
+# Rapid Data Visualizer Glhw
+
+Automated issue comment bot repository.
